@@ -1,0 +1,4 @@
+http://jquerymobile.com/
+https://build.phonegap.com/apps
+Username : gurtch
+Password : M5OtIEJj
